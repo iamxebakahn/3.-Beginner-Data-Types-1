@@ -1,4 +1,46 @@
+// Problem Description
 
+// Print first five multiples of 3 in the following manner -
+// 3*1 = 3
+// 3*2 = 6
+// 3*3 = 9
+// 3*4 = 12
+// 3*5 = 15
+
+
+// Problem Constraints
+
+// No constraints.
+
+
+// Input Format
+
+// No need to take input.
+
+
+// Output Format
+
+// Print output in 5 lines.
+// In 1st line : 3*1 = 3
+// In 2nd line : 3*2 = 6
+// In 3rd line : 3*3 = 9
+// In 4th line : 3*4 = 12
+// In 5th line : 3*5 = 15
+
+
+// Example Input
+
+// No input required.
+
+
+// Example Output
+
+// Output :
+// 3*1 = 3
+// 3*2 = 6
+// 3*3 = 9
+// 3*4 = 12
+// 3*5 = 15
 import java.lang.*;
 import java.util.*;
 
