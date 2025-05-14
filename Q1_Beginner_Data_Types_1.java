@@ -1,3 +1,43 @@
+// Problem Description
+
+// Print the following pattern in output
+// **********
+// *        *
+// *        *
+// **********
+
+
+// Problem Constraints
+
+// No constraints
+
+
+// Input Format
+
+// No need to take input
+
+
+// Output Format
+
+// Print the following pattern in 4 lines, in which first and last line have 10 stars, 2nd and 3rd have 1 star 8 spaces and 1 star.
+// **********
+// *        *
+// *        *
+// **********
+
+
+// Example Input
+
+// No input required.
+
+
+// Example Output
+
+// Output :
+// **********
+// *        *
+// *        *
+// **********
 import java.lang.*;
 import java.util.*;
 
